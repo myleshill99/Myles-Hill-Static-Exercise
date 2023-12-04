@@ -6,4 +6,4 @@ var fahrenheit = TempConverter.CelsiusToFahrenheit(20); //68
 
 Console.WriteLine ("After conversion:");
 Console.WriteLine($"celsius {celcius}");
-Console.WriteLine("fahrenheit {fahrenheit}");
+ Console.WriteLine($"fahrenheit {fahrenheit}");
